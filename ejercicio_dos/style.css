@@ -1,0 +1,15 @@
+/*Fondo*/
+body{background-color:rgb(160, 199, 221);}
+
+/*Color de texto*/
+p{color:rgb(134, 48, 196);}
+
+/*vincular a index con link en haad*/
+
+/*selector de clase con color de letra y tamaño, aplicado al segundo parrafo usando class = "" */
+
+.nombre{color: MediumVioletRed; font-size: 30px;}
+
+h1{color: rgba(120, 120, 120,0.5); text-align: center;}
+h2{color: #ffff00; text-align: center;}
+h3{color: hsla(160, 50%, 50%, 0.5); text-align: center;}
