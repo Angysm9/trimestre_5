@@ -1,2 +1,10 @@
 body{background-color: blueviolet;}
 p{color: rgb(252, 255, 255); font-size: 25px;}
+div {color:#b42e2e;
+font-size: 70px;
+background-color: blue;
+padding-bottom: 220;
+border: 15px solid rgb(184, 106, 51);
+margin: 100px;
+text-align: center;
+}
