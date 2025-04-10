@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(215, 166, 228);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Times new roman';
+    text-align: center;
+    font-size: 80px;
+
+}
+
+h2{
+    color: rgb(223, 166, 93);
+    font-family: 'Times new roman';
+    text-align: center;
+    font-size: 75px;
+
+}
+
+p{
+    color: rgb(194, 100, 100);
+    font-size: 40px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+
+div{
+    margin: 35px;
+    color: rgb(223, 93, 93);
+    font-family: 'Times new roman';
+}
