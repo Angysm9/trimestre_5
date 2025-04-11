@@ -3,24 +3,24 @@ body{
 }
 
 h1{
-    color: rgb(255, 255, 255);
+    color: rgb(95, 93, 223);
     font-family: 'Times new roman';
     text-align: center;
-    font-size: 80px;
+    font-size: 78px;
 
 }
 
 h2{
-    color: rgb(223, 166, 93);
+    color: rgb(185, 119, 182);
     font-family: 'Times new roman';
     text-align: center;
-    font-size: 75px;
+    font-size: 65px;
 
 }
 
 p{
     color: rgb(194, 100, 100);
-    font-size: 40px;
+    font-size: 37px;
     text-align: center;
     line-height: 1.5;
     
@@ -28,6 +28,6 @@ p{
 
 div{
     margin: 35px;
-    color: rgb(223, 93, 93);
+    color: rgb(218, 135, 135);
     font-family: 'Times new roman';
 }
